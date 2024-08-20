@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sourcing
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on talented developers.
-- 📫 How to reach me o.moroz@newxel.com
+- 📫 How to reach me 
 
 <!---
 MorozikO/MorozikO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
